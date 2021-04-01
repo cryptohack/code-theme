@@ -6,7 +6,7 @@ A dark theme for VS Code based on [CryptoHack](https://cryptohack.org).
 
 ## Avaliable on Marketplace
 
-Just search for the CryptoHack extension
+Visit the [Marketplace](https://marketplace.visualstudio.com/items?itemName=CryptoHack.cryptohack-theme), or just search for the CryptoHack extension
 
 ## Install using Command Palette
 

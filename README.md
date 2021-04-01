@@ -8,6 +8,10 @@ A dark theme for VS Code based on [CryptoHack](https://cryptohack.org).
 
 Visit the [Marketplace](https://marketplace.visualstudio.com/items?itemName=CryptoHack.cryptohack-theme), or just search for the CryptoHack extension
 
+## Avaliable for VS Codium
+
+Visit the [Open Vsx Marketplace](https://open-vsx.org/extension/cryptohack/cryptohack-theme)
+
 ## Install using Command Palette
 
 - Go to View -> Command Palette or press Ctrl+Shift+P

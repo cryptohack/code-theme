@@ -4,7 +4,7 @@
     "displayName": "CryptoHack Theme",
     "homepage": "https://crypthack.org",
     "description": "Dark theme inspired by CryptoHack",
-    "version": "1.0.6",
+    "version": "1.0.7",
     "engines": {
         "vscode": "^1.55.0"
     },

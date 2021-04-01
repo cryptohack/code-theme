@@ -43,7 +43,7 @@
         "input.placeholderForeground": "#6272A4",
         "inputOption.activeBorder": "#e85154",
         "inputValidation.infoBorder": "#feb32b",
-        "inputValidation.warningBorder": "#FFB86C",
+        "inputValidation.warningBorder": "#feb32b",
         "inputValidation.errorBorder": "#FF5555",
         "badge.foreground": "#F8F8F2",
         "badge.background": "#1F2638",
@@ -55,7 +55,7 @@
         "list.highlightForeground": "#8BE9FD",
         "list.hoverBackground": "#1F263875",
         "list.inactiveSelectionBackground": "#1F263875",
-        "list.warningForeground": "#FFB86C",
+        "list.warningForeground": "#feb32b",
         "list.errorForeground": "#FF5555",
         "activityBar.background": "#0C1222",
         "activityBar.inactiveForeground": "#6E7687",
@@ -85,7 +85,7 @@
         "editor.foldBackground": "#0C111D",
         "editor.wordHighlightBackground": "#8BE9FD50",
         "editor.wordHighlightStrongBackground": "#50FA7B50",
-        "editor.findMatchBackground": "#FFB86C80",
+        "editor.findMatchBackground": "#feb32b80",
         "editor.findMatchHighlightBackground": "#FFFFFF40",
         "editor.findRangeHighlightBackground": "#1F263875",
         "editor.hoverHighlightBackground": "#8BE9FD50",
@@ -102,14 +102,14 @@
         "editorRuler.foreground": "#FFFFFF1A",
         "editorCodeLens.foreground": "#6272A4",
         "editorOverviewRuler.border": "#070B18",
-        "editorOverviewRuler.selectionHighlightForeground": "#FFB86C",
+        "editorOverviewRuler.selectionHighlightForeground": "#feb32b",
         "editorOverviewRuler.wordHighlightForeground": "#8BE9FD",
         "editorOverviewRuler.wordHighlightStrongForeground": "#50FA7B",
         "editorOverviewRuler.modifiedForeground": "#8BE9FD80",
         "editorOverviewRuler.addedForeground": "#50FA7B80",
         "editorOverviewRuler.deletedForeground": "#FF555580",
         "editorOverviewRuler.errorForeground": "#FF555580",
-        "editorOverviewRuler.warningForeground": "#FFB86C80",
+        "editorOverviewRuler.warningForeground": "#feb32b80",
         "editorOverviewRuler.infoForeground": "#8BE9FD80",
         "editorError.foreground": "#FF5555",
         "editorWarning.foreground": "#8BE9FD",
@@ -120,7 +120,7 @@
         "gitDecoration.deletedResourceForeground": "#FF5555",
         "gitDecoration.untrackedResourceForeground": "#50FA7B",
         "gitDecoration.ignoredResourceForeground": "#6272A4",
-        "gitDecoration.conflictingResourceForeground": "#FFB86C",
+        "gitDecoration.conflictingResourceForeground": "#feb32b",
         "diffEditor.insertedTextBackground": "#50FA7B20",
         "diffEditor.removedTextBackground": "#FF555550",
         "editorWidget.background": "#0C111D",
@@ -158,7 +158,7 @@
         "statusBar.noFolderBackground": "#070B18",
         "statusBar.noFolderForeground": "#F8F8F2",
         "statusBarItem.prominentBackground": "#FF5555",
-        "statusBarItem.prominentHoverBackground": "#FFB86C",
+        "statusBarItem.prominentHoverBackground": "#feb32b",
         "statusBarItem.remoteForeground": "#F8F8F2",
         "statusBarItem.remoteBackground": "#e85154",
         "titleBar.activeBackground": "#0C111D",
@@ -174,7 +174,7 @@
         "notification.errorForeground": "#F8F8F2",
         "notification.infoBackground": "#8BE9FD",
         "notification.infoForeground": "#0C1221",
-        "notification.warningBackground": "#FFB86C",
+        "notification.warningBackground": "#feb32b",
         "notification.warningForeground": "#0C1221",
         "extensionButton.prominentForeground": "#F8F8F2",
         "extensionButton.prominentBackground": "#50FA7B90",
@@ -184,8 +184,8 @@
         "debugToolBar.background": "#0C111D",
         "walkThrough.embeddedEditorBackground": "#0C111D",
         "settings.headerForeground": "#F8F8F2",
-        "settings.modifiedItemForeground": "#FFB86C",
-        "settings.modifiedItemIndicator": "#FFB86C",
+        "settings.modifiedItemForeground": "#feb32b",
+        "settings.modifiedItemIndicator": "#feb32b",
         "settings.dropdownBackground": "#0C111D",
         "settings.dropdownForeground": "#F8F8F2",
         "settings.dropdownBorder": "#070B18",
@@ -610,7 +610,7 @@
 			"scope": "markup.strike",
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#FFB86C"
+				"foreground": "#feb32b"
 			}
 		},
 		{
@@ -618,7 +618,7 @@
 			"scope": "markup.bold",
 			"settings": {
 				"fontStyle": "bold",
-				"foreground": "#FFB86C"
+				"foreground": "#feb32b"
 			}
 		},
 		{
@@ -626,7 +626,7 @@
 			"scope": "markup.italic",
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#FFB86C"
+				"foreground": "#feb32b"
 			}
 		},
 		{

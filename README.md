@@ -37,3 +37,15 @@ If something doesn't look right, please leave an issue in our [GitHub repo](http
 ## Typography
 
 In the screenshots, we use [IBM Plex Mono](https://www.ibm.com/plex/). The IBM Plex font is an [open source](https://github.com/IBM/plex) project.
+
+```python
+def function(thing):
+    code += 1
+    return a
+```
+
+```
+This is a standard codeblock
+```
+
+This is inline `code`

@@ -2,7 +2,7 @@
 
 A dark theme for VS Code based on [CryptoHack](https://cryptohack.org).
 
-![Example with C](https://raw.githubusercontent.com/cryptohack/code-theme/master/Screenshots/example-one.png?token=AKRRPF4LCEJVU4DJCERZ5Y3AMWLL2)
+![Example with C](https://github.com/cryptohack/code-theme/blob/d7436408e346be1c1f6c1b39686be9cd7fd570f5/Screenshots/example-one.png)
 
 ## Avaliable on Marketplace
 
@@ -32,7 +32,7 @@ If something doesn't look right, please leave an issue in our [GitHub repo](http
 
 ## Screenshots
 
-![Example with Python](https://raw.githubusercontent.com/cryptohack/code-theme/master/Screenshots/example-two.png?token=AKRRPF46SSOV5C37IO4KQ5TAMWLNI)
+![Example with Python](https://github.com/cryptohack/code-theme/blob/d7436408e346be1c1f6c1b39686be9cd7fd570f5/Screenshots/example-two.png)
 
 ## Typography
 

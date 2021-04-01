@@ -2,8 +2,8 @@
 
 All notable changes to the "cryptohack-theme" extension will be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+## [Release]
 
-## [Unreleased]
-
-- Initial release
+- Initial release v1.0.4
+- Several small patches to README.md
+- CHANGELOG.md included

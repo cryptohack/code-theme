@@ -18,7 +18,7 @@ Visit the [Marketplace](https://marketplace.visualstudio.com/items?itemName=Cryp
 ## Install Using Git
 
 ```
-git clone $ git clone https://github.com/cryptohack/code-theme.git ~/.vscode/extensions/cryptohack-theme
+git clone https://github.com/cryptohack/code-theme.git ~/.vscode/extensions/cryptohack-theme
 ```
 
 ## Setting your Theme

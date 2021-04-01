@@ -4,6 +4,6 @@ All notable changes to the "cryptohack-theme" extension will be documented in th
 
 ## [Release]
 
-- Initial release v1.0.5
+- Initial release v1.0.6
 - Several small patches to README.md
 - CHANGELOG.md included

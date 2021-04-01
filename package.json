@@ -1,0 +1,38 @@
+{
+    "name": "cryptohack-theme",
+    "publisher": "CryptoHack",
+    "displayName": "CryptoHack Theme",
+    "homepage": "https://crypthack.org",
+    "description": "Dark theme inspired by CryptoHack",
+    "version": "1.0.0",
+    "engines": {
+        "vscode": "^1.55.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/cryptohack/code-theme.git"
+    },
+    "keywords": [
+        "cryptohack",
+        "dark",
+        "theme",
+        "color-theme"
+    ],
+    "icon": "icon.png",
+    "galleryBanner": {
+        "color": "#0C1221",
+        "theme": "dark"
+    },
+    "contributes": {
+        "themes": [
+            {
+                "label": "CryptoHack",
+                "uiTheme": "vs-dark",
+                "path": "./themes/CryptoHack-color-theme.json"
+            }
+        ]
+    }
+}
